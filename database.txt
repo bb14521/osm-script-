@@ -1,0 +1,110 @@
+lat	lon	title	description	icon	iconSize	iconOffset
+30.86418	75.86627	Tangri Powder Coating Industry	St No. 3, Kawality Road, Simlapuri.	Ol_icon_blue_example.png	24,24	0,-24
+30.86423	75.86410	A.C. Brothers	H.No. 1711/18, St No. 3, Near Nippy Public High School, Simlapuri. 	Ol_icon_blue_example.png	24,24	0,-24
+30.86458	75.87222	Sunil Industries	H.No. 1705/14-B, St No. 2,Preet Nagar, Chiminey Road, Simlapuri	Ol_icon_blue_example.png	24,24	0,-24
+30.86585	75.87002	Shri Laxmi industry	H.No. 4831, St No. 7 & 1/2, Chimney Road, New Simalapuri	Ol_icon_blue_example.png	24,24	0,-24
+30.86785	75.86817	Turbo Powder Coating Industry	H.No. 5023/4, St No. 6, Simalapuri	Ol_icon_blue_example.png	24,24	0,-24
+30.87220	75.86173	R.K. Engineering Works	H.No. 3332, St No. 4, New Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87220	75.86173	R.K. Engineering Works	H.No. 3349, St No. 4, New Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87252	75.86183	Parkash Trading company	H.No. 3333, St No. 4, New Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87265	75.87080	NA	H.No. 6320, St No. 1, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87582	75.85615	S.S. industries	H.No. 3605/4, St No. 5, Chet Singh Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87610	75.89678	Krishna Industries	H.No. 146 3-B, St. No. 1, Opp. Electricity Board office, Giaspura	Ol_icon_blue_example.png	24,24	0,-24
+30.87680	75.86912	Shiv Enterprises	H.No. 10506, St No. 6, Ranjit Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87687	75.86885	Mankoo Sons	H.No. 10063/4, St No. 6, Ranjit Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87700	75.86753	NA	H.No. 9982, St No. 6, Ranjit Nagar, Behind A.T.I.	Ol_icon_blue_example.png	24,24	0,-24
+30.87703	75.86053	Guru Nanak Enterprises	H.No. 2537, St No. 4, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87707	75.86230	G,S.Industry	H.No. 2426, St No. 8, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87712	75.86857	Bhole Bhandari Industries	H.No. 10063, St No. 17-B, Kot Mangal Singh, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87712	75.86847	Shri Krishna Zinc	H.No. 10063, St No. 17-B, Kot Mangal Singh, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87725	75.86858	Golden Machine Tool	H.No. 10058, St No. 17-B, Kot Mangal Singh, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87727	75.86232	G.S. Kalsi Enterprises	H.No. 2421, St No. 8, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87728	75.86550	J.S. Bedi Enterprise	H.No. 1508, St No. 15, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87778	75.86062	Jaswinder Enterprises	Near Govt. School, Gill Road, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87787	75.86858	J.J. Industries	H.No. 10058/B, St No. 17-B, Kot Mangal Singh, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87875	75.85700	NIRMAL SINGH INDUSTRY	H.No. 2709/2, St No. 3, Chet Singh Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87882	75.86848	Shakti Steel Corporation	Kot Mangal Singh, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87895	75.86983	Shiv Shakti Electroplating	H.No. 9730, St No. 1, Kot Mangal Singh,	Ol_icon_blue_example.png	24,24	0,-24
+30.87915	75.85677	D.K. Sand Blast	H.No. 2741, St No. 3, Chet Singh Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87962	75.85012	Anmol Enterprises	H.No 1759, St.No. 26, Janta nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87978	75.85712	PULLMAN CYCLE INDUSTRY	H.No. 2339/2, , Deshmesh Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87980	75.86217	P.C. Enterprises	H.No 2973, St.No. 35, Janta nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87982	75.86900	G.S. Kalsi	H.No. 9707/2, St No. 8, Bhagwan Chowk, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87983	75.87020	Deshmesh Mechanics	St No. 7, Bhagwan Chowk, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87992	75.85737	Dawer Cycles	Near  Radha Swami Road, St No. 17, Deshmesh Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.87992	75.85738	Ravi Enterprises	Near  Radha Swami Road, St No. 17, Deshmesh Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88062	75.86760	Gharial Ind. Works	H.No. 10240, St No. 5, Bhagwan Chowk, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88075	75.85402	Jai Bajrang Enterprise	H. No:- 7700 St No. 9,  ARJUN NAGAR	Ol_icon_blue_example.png	24,24	0,-24
+30.88077	75.86445	Mandeep Products	H.No. 1682, St No. 39, New Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88077	75.87090	NA	H.No. 9815, St No. 5, Bhagwan Chowk, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88085	75.86425	Sant Sihrey Industries	H.No. 1692, St No. 39, New Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88087	75.87050	Prayag Industries	H.No. 10506, St No. 5,Near Kot Mangal Singh Chowk, New Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88090	75.86428	NA	H.No. 1693, St No. 39, New Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88128	75.86710	Thakur Steel	H.No. 10282, St No. 4, Bhagwan Chowk, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88133	75.86802	Mohandeep Industrial Corporation	H.No. 10340/4, St No. 3, Bhagwan Chowk, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88147	75.86662	Kushall Steel	H.No. 10284, St No. 4, Bhagwan Chowk, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88152	75.86675	Apra Parteners	H.No. 10306, St No. 3, Bhagwan Chowk, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88155	75.86703	Ghai Auto Blackening	H.No. 10302, St No. 3, Bhagwan Chowk, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88158	75.86678	D.N. Industries	H.No. 10298, St No. 3, Bhagwan Chowk, Janta Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88163	75.86437	B.K. Industries	H.No. 808, Jaimal Singh Road, Industrial Area-B (Near bhagwan chowk)	Ol_icon_blue_example.png	24,24	0,-24
+30.88177	75.85362	Glossy Enterprises	H.No. 1991, St No. 15, Deshmesh Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88187	75.85538	Preet Wires	St No. 15, Radha Swami Road, Arjun Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88288	75.85777	KIRAN INDUSTRY 	H.No. 2617, St No. 13, Deshmesh Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88310	75.89660	Jindal Fasteners	H.No. 1628, Baba Deep Singh Nagar, Opp. Aarti Steel, Focal Pt.	Ol_icon_blue_example.png	24,24	0,-24
+30.88310	75.89670	Shivo Hum Industries	H.No. 1682, Baba Deep Singh Nagar, Opp. Aarti Steel, Focal Pt.	Ol_icon_blue_example.png	24,24	0,-24
+30.88357	75.85367	Bhardwaj Industry	St No. 12/2, Deshmesh Nagar(Dhuri line)	Ol_icon_blue_example.png	24,24	0,-24
+30.88378	75.85850	G.S. Forging	Gill Road, Opp. P.P.C.B.	Ol_icon_blue_example.png	24,24	0,-24
+30.88540	75.85687	RUPAL INDUSTRIES	H.No. 1507, St No. 8, Deshmesh Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88548	75.88988	Luxmi Udyog 	H.No:- B-XXX-231,St. Name :- Rana Gas Lane, Sherpur Khurd	Ol_icon_blue_example.png	24,24	0,-24
+30.88557	75.85485	M.S. INDUSTRIES	H.No. 1376/2, St No. 12/7, Deshmesh Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88560	75.85492	NOT GIVEN	H.No. 1376, St No. 12/7, Deshmesh Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88560	75.88980	R.N. Cycle 	H. No.:- B-XXX-230/2, St.Name:-Rana Gas Lane, Sherpur Khurd	Ol_icon_blue_example.png	24,24	0,-24
+30.88585	75.85680	Juneja Steel Industries	H.No. 1093, St No. 8, Deshmesh Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88588	75.85467	AVTAR ZENNIAN	H.No. 1345, St No. 8, Deshmesh Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88625	75.85410	Sonu Enterprises	H.No. 1210, St No. 8, Deshmesh Nagar(Near MIG Flat)	Ol_icon_blue_example.png	24,24	0,-24
+30.88658	75.85422	Sonu Enterprises	H.No. 1205, St No. 8, Deshmesh Nagar(Near MIG Flat)	Ol_icon_blue_example.png	24,24	0,-24
+30.88683	75.88720	R.N. Cycle 	H.No:- B-XXX-228, St. Name :- Rana Gas Lane, Sherpur Khurd	Ol_icon_blue_example.png	24,24	0,-24
+30.88692	75.85512	 J.H. AUTO INDUSTRY 	H. No. 686, St No. 4, Deshmesh Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88700	75.88695	Auto Engineers 	H.No:-B-XXX-229,Sherpur Khurd, Backside bajaj auto	Ol_icon_blue_example.png	24,24	0,-24
+30.88753	75.85565	Makkar (2 unit)	H.No. 1066/11, St.No. 3, Kalsian Street, Sewak Pura, Gill Road	Ol_icon_blue_example.png	24,24	0,-24
+30.89208	75.85565	Makkar 	H.No. 1874, St.No. 3, Kalsian Street, Sewak Pura, Gill Road	Ol_icon_blue_example.png	24,24	0,-24
+30.88832	75.85592	Harjit Singh Enterprises	H.No. 127, St No. 2, Deshmesh Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88838	75.85580	Dugri Forging	H.No. 77, St No. 2, Deshmesh Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88840	75.85592	NA	H.No. 128, St No. 2, Deshmesh Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.88928	75.88683	Sunil Enterprises 	H.No. B-XXX-188, Near Cancer Hospital, Sherpur Khurd	Ol_icon_blue_example.png	24,24	0,-24
+30.88980	75.88670	Sunil Enterprises 	H.No. B-XXX-185, Near Cancer Hospital, Sherpur Khurd	Ol_icon_blue_example.png	24,24	0,-24
+30.89033	75.85102	N.A. 	H.No. 2750, St. No. 3, Jammu Colony, Opp. Sanjeev Enterprises	Ol_icon_blue_example.png	24,24	0,-24
+30.89037	75.84953	Ovindra		Ol_icon_blue_example.png	24,24	0,-24
+30.89062	75.85655	Upkar Auto Ind.	H.No. 1090, St.No. 2, Himmat Pura, Kalsian Road	Ol_icon_blue_example.png	24,24	0,-24
+30.89107	75.85642	NA	H.No. 1959, St.No. 2, Himmat Pura, Kalsian Road	Ol_icon_blue_example.png	24,24	0,-24
+30.89145	75.85487	Rejesh And Company	H.No. 2455/1, St.No 7, Kalsian Street, Sewak Pura, Gill Road	Ol_icon_blue_example.png	24,24	0,-24
+30.89147	75.85050	N.A.	H.No. 2750, St. No. 6, Jammu Colony	Ol_icon_blue_example.png	24,24	0,-24
+30.89152	75.85622	Daljit Brother	H.No. 2598/1, St.No 3, Kalsian Street, Sewak Pura, Gill Road	Ol_icon_blue_example.png	24,24	0,-24
+30.89160	75.85585	Chhabra Steel Ind.	H.No. 1066, St.No 3, Kalsian Street, Sewak Pura, Gill Road	Ol_icon_blue_example.png	24,24	0,-24
+30.89165	75.85617	Tony Industries	H.No. 2598, St.No. 3, Kalsian Street, Sewak Pura, Gill Road	Ol_icon_blue_example.png	24,24	0,-24
+30.89218	75.85638	Dhand Cycle Industries	H.No. 1901, St.No. 3, Kalsian Street, Sewak Pura, Gill Road	Ol_icon_blue_example.png	24,24	0,-24
+30.89227	75.85540	Raja Zinc	H.No. 1076, St.No. 1, Kalsian Street, Sewak Pura, Gill Road	Ol_icon_blue_example.png	24,24	0,-24
+30.89252	75.85525	Rohit Electroplating Ind.	H.No. 1075, St.No. 3, Kalsian Street, Sewak Pura, Gill Road	Ol_icon_blue_example.png	24,24	0,-24
+30.89258	75.85638	Kidar Son India	H.No. 700, St.No. 1, Kalsian Street, Millar Ganj	Ol_icon_blue_example.png	24,24	0,-24
+30.89277	75.85307	N.A. 	Miller Gunj	Ol_icon_blue_example.png	24,24	0,-24
+30.89287	75.85270	Micheal Industry	H.No. 1596/2, Azad Nagar, Ludhiana-3	Ol_icon_blue_example.png	24,24	0,-24
+30.89295	75.85187	Raj Steel Enterprises	H. No. 2379, Abdullapur Basti, Miller Gunj	Ol_icon_blue_example.png	24,24	0,-24
+30.89298	75.85020	D.V. Kapoor	H.No. 2407/4, St. No. 8, Jammu Colony	Ol_icon_blue_example.png	24,24	0,-24
+30.89303	75.88673	Robin Industries	H.No:-704 St. No 3,Kailash Nagar, Sharpur kalan	Ol_icon_blue_example.png	24,24	0,-24
+30.89307	75.85152	B.R. Exports (India)	2373, Bhatta Bhagat Singh, Abdullapur Basti, Jammu colony	Ol_icon_blue_example.png	24,24	0,-24
+30.89348	75.86653	Kartar Sahai Industrial Corporation	H.No. 580, Industrial Area-B,	Ol_icon_blue_example.png	24,24	0,-24
+30.89360	75.84940	Harjit Industries	H.No 2312/A Indra Nagar	Ol_icon_blue_example.png	24,24	0,-24
+30.89380	75.86602	Harjit Industry	H.No. 2312/A, Indra Nagar, Backside K-Mall, Ludhiana	Ol_icon_blue_example.png	24,24	0,-24
+30.89393	75.85417	Jhansal Udyog	Near Railway line, Muradpura, Miller Gunj	Ol_icon_blue_example.png	24,24	0,-24
+30.89410	75.86272	Unknown	H.No. 625, St No. 3, Nirankari Mohalla, Millar Ganj	Ol_icon_blue_example.png	24,24	0,-24
+30.89425	75.85443	Surinder Singh	H. No. 1013, St. No. 8, Muradpura, Miller Gunj	Ol_icon_blue_example.png	24,24	0,-24
+30.89463	75.85562	N.A.	Jammu Colony	Ol_icon_blue_example.png	24,24	0,-24
+30.89628	75.85468	K.B. Zinc	H.No. 875, St.No. 2, Band Gali, Murad Pura, Dhuri line	Ol_icon_blue_example.png	24,24	0,-24
+30.89667	75.85618	NA	H.No. 774/1, St.No. 2, (Near Prem Ind), Murad Pura, Gill Road	Ol_icon_blue_example.png	24,24	0,-24
+30.89677	75.85644	Avinash Enterprises	H.No. 562/7, St. No. 7, Muradpura, Miller Gunj	Ol_icon_blue_example.png	24,24	0,-24
+30.89678	75.85644	N.A. 	H.No. 561/7, St. No. 7, Muradpura, Miller Gunj	Ol_icon_blue_example.png	24,24	0,-24
+30.89690	75.86200	Shri Ganesh Industry	H.No. 232, St No. 2,Nirankari Mohalla, Millar Ganj	Ol_icon_blue_example.png	24,24	0,-24
+30.89765	75.85610	O.K. Ind.	Shop no. 4, St.No. 1, Nanak Pura, Millar Ganj	Ol_icon_blue_example.png	24,24	0,-24
+30.89831	75.85642	Khairati Lal & Company	H.No. 272, Ahluwalia Street, Miller Gunj	Ol_icon_blue_example.png	24,24	0,-24
+30.89889	75.85660	N.A. 	H.No. 200, Ahluwalia Street, Miller Gunj	Ol_icon_blue_example.png	24,24	0,-24
+
